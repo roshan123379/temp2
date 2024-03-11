@@ -1,0 +1,190 @@
+body{
+  margin: 0cm;
+  padding: 0cm;
+
+}
+
+.header{
+  color: rgb(78, 5, 5);
+  display: flex;
+  justify-content: space-between;
+  height: auto;
+  padding: 15px;
+  align-items: center;
+  background-color:rgb(200, 162, 90)
+}
+.home{
+  width: 50%;
+  
+}
+.header i{
+  color: black;
+  font-size: 20px;
+}
+.login,.wallet{
+  background-color: brown;
+  color: white;
+  padding: 10px;
+}
+.subHome1{
+  display: flex;
+  width:100%;
+  justify-content: space-between;
+
+}
+.subHome2{
+  align-items: center;
+  display: flex;
+  width:100%;
+  justify-content: space-between;
+  margin-top: 0.3cm;
+  
+
+}
+.image1{
+  height: 2.5cm;
+  mix-blend-mode: darken;
+  
+}
+.pic1{
+  width: 100%;
+  height: 15cm;
+  
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+.mainDiv{
+  position: relative;
+
+}
+.formDiv{
+  display: flex;
+  justify-content: center;
+  width: 9cm;
+  height: auto;
+  left: 30%;
+  position: fixed;
+  top: 2cm;
+  height: 100vh;
+}
+
+form {
+  background-color: #fff;
+  padding: 20px;
+  width: 100%;
+  
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+form h2{
+  text-align: center;
+  color: rgb(150, 72, 17);
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  width: 5cm;
+  margin-top: 0.9cm;
+}
+
+input, select {
+  margin-top: 0.9cm;
+  width: 50%;
+  padding: 8px;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #c06d15;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.dep{
+  background: url("https://icons.veryicon.com/png/o/miscellaneous/xdh-font-graphics-library/direction-17.png") no-repeat scroll 7px 7px;
+  background-size: 20px 20px;
+  padding-left: 40px;
+}
+.To{
+  background: url("https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_location_on_48px-512.png") no-repeat scroll 7px 7px;
+  background-size: 20px 20px;
+  padding-left: 40px;
+}
+#Quota{
+  background: url("https://cdn.iconscout.com/icon/free/png-256/free-squares-four-3610242-3014351.png") no-repeat scroll 7px 7px;
+  background-size: 20px 20px;
+  padding-left: 40px;
+}
+#coach{
+  background: url("https://www.clipartmax.com/png/middle/61-613820_coach-train-railway-carriage-track-transport-railway-coach-icon.png") no-repeat scroll 7px 7px;
+  background-size: 25px 25px;
+  padding-left: 40px;
+}
+.trainname{
+  display: flex;
+  background-color: rgb(204, 196, 196);
+  justify-content: space-between;
+  color: black;
+  height: 1.7cm;
+  border: 1px rgb(218, 213, 213) solid;
+}
+.tag{
+  font-weight: bold;
+}
+.timediv{
+  color: #054609;
+  font-weight: bold;
+}
+.journey{
+  display: flex;
+  justify-content: space-between;
+  height: 1.7cm;
+  border: 1px rgb(218, 213, 213) solid;
+  font-weight: bold;
+  
+}
+.refresh{
+  display: flex;
+  gap: 0.5cm;
+  border: 1px rgb(218, 213, 213) solid;
+  margin-top: 10px;
+  height: 2cm;
+  font-weight: bold;
+
+}
+.refresh .ThreeAC,.SecondAC,.SL{
+  background-color: rgb(204, 196, 196);
+  width: 5cm;
+  border-radius: 5px;
+  font-weight: bold;
+  justify-content: center;
+
+}
+.Schedule{
+  display: flex;
+  gap: 0.8cm;
+  margin-top: 1cm;
+  height: 1.5cm;
+}
+.book ,.dates{
+  background-color: #c06d15;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 3cm;
+  color: black;
+}
+
